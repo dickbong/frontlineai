@@ -1,0 +1,4 @@
+1.1+
+-soviets throw all their troops into mongolia while at war with japan, where there is practically no supply. (unknown if fixed)
+1.2.1
+-republican spain makes naval invasions, but doesn't execute and troops won't move to port, probably from being constantly attacked by the falangists

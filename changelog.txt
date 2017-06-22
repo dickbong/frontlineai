@@ -1,0 +1,56 @@
+1.0
+-changed not ready for war base modifier from 50 to 500, meaning the ai will not join wars if they're not ready (germany?)
+-changed army importance factor for the ai from 5 to 10 (experimental)
+-changed victory point importance factor from 5 to 2.5
+-changed repeat offers factor from 4 months to 1 month, making the ai more frequently offer stuff
+-changed tradeable factories fraction from 0.8 to 0.6 meaning the ai will trade less of their factories away
+-changed deploy minimum training war factor from 25% to %5 increasing unit spam to allow a bigger army
+-changed plan value to execute factor from -0.5 to -0.9 making the ai not do dangerous plans
+-changed volunteer containment factor from 0.1 to 0.9, making the ai more likely to contain someone else
+-changed main enemy front importance from 10.0 to 30.0 making the ai actually maintain frontlines
+-changed easy target front importance from 7.5 to 5.0 making the ai not send many troops to an easy target
+-changed ai front movement factory for ready factor from 0.25 to 0.10, making the ai have 90% of troops on the border, not moving before executing a plan
+-changed entrenchment weight from 2.0 to 3.0
+
+1.1
+-changed units factor area desire to from 1.0 to 2.5 making the ai garrison less
+-changed min units factor area from 1.0 to 0.25
+-changed max units factor front order from 1.5 to 5.0
+-changed units factor front order desire from 1.5 to 4.5
+-changed min units factor front order from 1.5 to 3.0
+-changed max units for naval invasion from 1.0 to 0.5
+-changed desired units for naval invasion from 1.0 to 0.15
+-changed minimum units for naval invasion from 1.0 to 0.0
+-changed ai front movement factor back to 0.25 for experimenting
+-changed plan move min organization to enemy province from 20.0 to 10.0 making the ai take territory that the enemy doesn't have units on with low org
+-changed relative strength to invade defensive from 0.4 to 0.08, hopefully making the ai attack more
+-changed entrenchment weight to 0.5 to make the ai mobilize when important
+
+1.2
+-updated the defines so this mod should be compatible with every mod on the workshop (in theory)
+-changed plan supply factor from 0.1 to 15.5
+-changed back army importance factor and victory points factor
+-changed plan value to execute back from before and to 0.2, I messed up on the part where the ai will do stupid plans
+-changed back relative strength to invade
+-changed garrison fraction to 0.2 
+-changed unit assignment terrain importance to 20.0
+-changed plan move min org back (experimental)
+-changed ai front movement factor back to 0.1
+-changed plan activation superiority aggro to 0 (experimental)
+-changed entrenchment weight to 4.0 (experimental)
+-changed plan spread attack weight from 13.0 to 50.0 (experimental)
+-changed main enemy front importance from 30.0 to 10.0 in efforts to prevent majors lining up all of their troops in the desert against a minor
+-changed hour bad combat reevaluate from 100 hours to 2 hours trying to make the ai reevaluate whether to keep attacking or not on if it the plan goes bad
+-changed naval mission escort near controlled to 70000 to promote escorting troop convoys
+
+1.2.1
+-doubled main enemy front importance, should fix abandoning frontlines
+-doubled small enemy front importance, should fix abandoning frontlines
+-changed plan value to execute down to 0.0
+-changed plan activation superiority aggro back to 1.0, fixing ai won't attack empty spaces bug
+-added ai strategy for invading england, will add more in 1.3
+
+1.2.2
+-added ai strategy for invading japan
+-added garrison values for england and japan (so they don't get cucked by naval invasion)
+-changed plan value to execute to 0.2, before the ai was too afraid to attack, now they're too keen.

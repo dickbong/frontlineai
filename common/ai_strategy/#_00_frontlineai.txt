@@ -1,0 +1,38 @@
+# Written by Dickey Bong
+
+# befriend
+# conquer
+# antagonize
+# build_ship
+# build_army
+# unit_ratio
+# build_building
+# research_tech
+# garrison
+# protect
+# influence
+# contain
+# area_priority
+
+#dont_attack_on_mountain = {
+#	enable = {
+#		ROOT = {
+#			is_fighting_in_terrain = mountain
+#			is_attacker = yes	
+#			is_winning = no
+#		}
+#	}
+#	abort = {
+#		ROOT = {
+#			is_fighting_in_terrain = mountain
+#			is_attacker = yes	
+#			is_winning = yes
+#		}
+#	}
+#
+#	ai_strategy = {
+#		type = garrison
+#	}
+#}
+
+##WIP to be continued

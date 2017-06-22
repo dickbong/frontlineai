@@ -1,0 +1,34 @@
+[h1]Not Ironman Compatible[/h1]
+
+[h1]Current Version: 1.2.1[/h1]
+
+[h1]Presentation[/h1]
+Using Better Mechanics: Frontline AI, you can finally go up against the AI Hoi4 deserves. It will now be more difficult to rush Moscow with one division as the AI will prioritize frontlines much more than garrisoning during a war. The AI will also not abandon their frontlines to fight a smaller enemy, so you will be up against a tougher fight.
+
+[h1]Features[/h1]
+-AI more reluctant to join wars they're not ready for
+-AI emphasizes army more
+-AI emphasizes victory points substantially less
+-AI will trade less of their factories away
+-AI will deploy untrained troops more often in a war
+-AI more reluctant to do dangerous plans
+-AI more likely to send volunteers to contain enemies
+-AI maintains frontlines on major enemies more than anything else in war
+-AI puts less troops on enemies with smaller armies
+-AI more cautious with executing plans if troops aren't on the border
+-AI more reluctant to move entrenched troops
+-AI less likely to put too many troops in low supply zones
+-If AI is losing combat, they will stop attacking in at least 2 ingame hours
+
+[h1]Compatibility[/h1]
+Since the 1.2 update, this mod should in theory be compatible with any mod on the workshop due there being only files added.
+
+[h1]Policy for "Modpacks"[/h1]
+If your mod is a "modpack," and just a collection of other's mods, ex. World War 2 Simulation, you don't have permission to use this mod as you benefit off of other people's hard work. You shouldn't have to integrate this mod whatsoever considering it should be compatible. If this mod isn't compatible with a mod you want it to be, ask me to make a compability pack, and I will.
+
+[h1]Contacts[/h1]
+Hit up our [url=https://discord.gg/zP4kUvQ]discord[/url] for suggestions or just to talk.
+
+[h1]Other Projects and Misc Information[/h1]
+If you are an able modder we are always in need of help on another project: a flavor mod for Ireland. If you're interested, hop onto that [url=https://discord.gg/mMMSX3Q]discord[/url].
+
