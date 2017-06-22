@@ -54,3 +54,4 @@
 -added ai strategy for invading japan
 -added garrison values for england and japan (so they don't get cucked by naval invasion)
 -changed plan value to execute to 0.2, before the ai was too afraid to attack, now they're too keen.
+-changed the vittoria mutilata idea to not give +50% ai offense, it breaks the ai

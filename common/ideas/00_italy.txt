@@ -1,0 +1,31 @@
+##LISTEN... I understand this might make one error, but it's worth it for the sake of the italians that will die without it.
+
+ideas = {
+	country = {
+		vittoria_mutilata = {			
+			
+			allowed = {
+				original_tag = "ITA"
+			}
+
+			allowed_civil_war = {
+				NOT = {
+					OR = {
+						has_government = communism
+						has_government = democratic
+					}
+				}
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				communism_acceptance = -10
+				democratic_acceptance = -10
+				fascism_acceptance = 10
+				#ai_focus_aggressive_factor = 0.5 #this shit cucks the ai and makes them attack in mountains
+				justify_war_goal_time = -0.05
+			}
+		}
+	}
+}
